@@ -1,4 +1,4 @@
-# The DOD and what has been met:
+# The Project:
 
 - To be able to run the app without the port 3000
 
@@ -34,4 +34,3 @@ development.local/posts
 
 Both of these addresses should separately open a post page and a app running testing page. 
 
-This shows that I've successfully met the DOD and the acceptance criteria.  
