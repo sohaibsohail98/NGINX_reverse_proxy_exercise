@@ -2,7 +2,7 @@
 
 - To be able to run the app without the port 3000
 
-- To be able to implement this in automation, in a provisioning script, so every time the VM runs, there is a reverse proxy set up to ensure that the app is running without the port 3000.
+- Implementing the reverse proxy in automation, through a provisioning script. This will ensure that every time the Vagrant VM is running, a reverse proxy is set up. 
 
 This has been met and tested. In order to test it out, these are the following steps needed to be done:
 
