@@ -1,4 +1,4 @@
-# Future improvements that could be made to the program:
+# Future iterations:
 
 At the moment, the app functions correctly, however, if we wish to run further iterations, there is a bit of a process.  
 
