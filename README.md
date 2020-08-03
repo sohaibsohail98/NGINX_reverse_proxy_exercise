@@ -6,7 +6,12 @@
 
 This has been met and tested. In order to test it out, these are the following steps needed to be done:
 
-Fork/clone this repo and download all the files.
+Fork/clone this repo and download all the files. Please make sure you have the following dependencies installed:
+
+- Vagrant
+- VirtualBox
+- Ruby
+- Bundler
 
 Once this done, from the directory, run this command:
 
